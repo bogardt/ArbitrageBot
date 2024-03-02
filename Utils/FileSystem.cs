@@ -1,6 +1,6 @@
-﻿using ArbitrageBot.Abstractions;
+﻿using BinanceWebSocketApi.Abstractions;
 
-namespace ArbitrageBot.Utils;
+namespace BinanceWebSocketApi.Utils;
 
 public class FileSystem : IFileSystem
 {

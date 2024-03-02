@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.8.34511.84
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArbitrageBot", "ArbitrageBot.csproj", "{82394F49-E9A6-4D71-936D-AA00E3466EBC}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BinanceWebSocketApi", "BinanceWebSocketApi.csproj", "{82394F49-E9A6-4D71-936D-AA00E3466EBC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

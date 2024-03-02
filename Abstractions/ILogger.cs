@@ -1,4 +1,4 @@
-﻿namespace ArbitrageBot.Abstractions;
+﻿namespace BinanceWebSocketApi.Abstractions;
 
 public interface ILogger
 {
